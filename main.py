@@ -62,3 +62,6 @@ def generate_certificate_with_qr():
 generated_certificate = generate_certificate_with_qr()
 print(f"Сгенерирован сертификат с QR-кодом: {generated_certificate}")
 
+
+
+
